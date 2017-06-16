@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/ToolbarCancel"
+        android:icon="@drawable/ic_clear_white_24dp"
+        android:tint="#ffffff"
+        android:title="清除"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/ToolbarOK"
+        android:icon="@drawable/ic_check_white_24dp"
+        android:tint="#ffffff"
+        android:title="提交"
+        app:showAsAction="always" />
+</menu>
